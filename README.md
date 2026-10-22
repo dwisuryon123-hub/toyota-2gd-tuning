@@ -7,7 +7,7 @@ Technical documentation for Denso ECU remapping, fueling parameters, VNT turbo c
 ## Supported Vehicles
 
 * Toyota Kijang Innova Reborn (2.4 Diesel, AN140)
-* Toyota Fortuner VRZ / G / SRZ (2.4 Diesel, AN160)
+* Toyota Fortuner VRZ / G / GR Sport (2.4 Diesel, AN160)
 * Toyota Hilux Revo / Conquest (2.4 Diesel Single/Double Cab, AN120/AN130)
 * Toyota HiAce Commuter / Premio (2.4 Diesel)
 
